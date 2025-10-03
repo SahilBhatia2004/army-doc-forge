@@ -1,1 +1,4 @@
 project_id = "irxphipejqoqlynbuuxw"
+
+[functions.search-documents]
+verify_jwt = true
